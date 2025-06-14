@@ -86,7 +86,7 @@ const ContactSection = () => {
             Get In Touch
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to start your next project? Let's work together to create something amazing!
+            Ready to start your next project? Let&apos;s work together to create something amazing!
           </p>
         </motion.div>
 
@@ -104,7 +104,7 @@ const ContactSection = () => {
                 Contact Information
               </h3>
               <p className="text-gray-600 text-lg leading-relaxed mb-8">
-                Feel free to reach out through any of these channels. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+                Feel free to reach out through any of these channels. I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
               </p>
             </div>
 
@@ -153,7 +153,7 @@ const ContactSection = () => {
                 Connect With Me
               </h3>
               <p className="text-gray-600 text-lg leading-relaxed mb-8">
-                Follow me on social media to stay updated with my latest projects and insights. Let's connect and build something great together!
+                Follow me on social media to stay updated with my latest projects and insights. Let&apos;s connect and build something great together!
               </p>
             </div>
 

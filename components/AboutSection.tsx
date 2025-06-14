@@ -65,7 +65,7 @@ const AboutSection = () => {
               About Me
             </h2>
             <p className="text-xl text-gray-600 leading-relaxed mb-6">
-              I'm a passionate full-stack developer and a third-year Computer Science and Engineering student at the Royal University of Phnom Penh, expected to graduate in 2026. As the eldest sister in a family of seven members, I’ve worked hard to overcome the challenges of growing up in the countryside to pursue higher education in Phnom Penh.
+              I&apos;m a passionate full-stack developer and a third-year Computer Science and Engineering student at the Royal University of Phnom Penh, expected to graduate in 2026. As the eldest sister in a family of seven members, I&apos;ve worked hard to overcome the challenges of growing up in the countryside to pursue higher education in Phnom Penh.
               I currently live at the Phnom Penh New Life Student Center and am honored to be a scholarship recipient of the AEON 1% Club Foundation.
             </p>
             {/* <div className="flex flex-wrap gap-4">
@@ -127,8 +127,8 @@ const AboutSection = () => {
               My Journey
             </h3>
             <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto">
-              I fell in love with technology. Every day, I keep learning new things about web development. At university and through my own projects, I'm gaining hands-on experience with modern technologies. I enjoy solving problems and building useful applications.
-              My background taught me to work hard and never give up. I want to use my skills to create technology that helps people and useful. Right now, I'm focused on finishing my degree while improving my coding abilities. 
+              I fell in love with technology. Every day, I keep learning new things about web development. At university and through my own projects, I&apos;m gaining hands-on experience with modern technologies. I enjoy solving problems and building useful applications.
+              My background taught me to work hard and never give up. I want to use my skills to create technology that helps people and useful. Right now, I&apos;m focused on finishing my degree while improving my coding abilities. 
             </p>
           </div>
         </motion.div>
