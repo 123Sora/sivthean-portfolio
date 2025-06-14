@@ -5,13 +5,6 @@ import { Button } from '@/components/ui/button';
 import { ArrowDown, Github, Linkedin, Mail, } from 'lucide-react';
 import { FaTelegramPlane } from 'react-icons/fa';
 
-// Telegram SVG icon as a React component
-const Telegram = (props: React.SVGProps<SVGSVGElement>) => (
-  <svg viewBox="0 0 24 24" fill="none" {...props}>
-    <path d="M21.944 2.506a1.5 1.5 0 0 0-1.633-.217L2.9 10.07a1.5 1.5 0 0 0 .13 2.77l4.44 1.73 2.03 6.09a1.5 1.5 0 0 0 2.67.27l2.13-3.19 4.16 3.06a1.5 1.5 0 0 0 2.36-.89l3.01-15.01a1.5 1.5 0 0 0-.786-1.404zM9.57 17.13l-1.44-4.33 7.47-6.7-6.03 7.97zm2.93 2.34l-1.13-3.39 2.18-2.6 2.13 1.57-3.18 4.42zm7.13-1.02l-4.16-3.06 5.13-7.13-1.97 10.19z" fill="currentColor"/>
-  </svg>
-);
-
 interface HeroSectionProps {
   opacity: MotionValue<number>;
 }
